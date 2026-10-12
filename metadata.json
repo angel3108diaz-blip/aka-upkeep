@@ -1,0 +1,6 @@
+{
+  "name": "AkaUpkeep",
+  "description": "Gestión de mantenimiento industrial preventivo y correctivo con AkaUpkeep: control de equipos, cronogramas, calendario interactivo, reportes y alertas.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
